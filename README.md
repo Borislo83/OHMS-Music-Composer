@@ -64,3 +64,9 @@ npm start
 
 ## Credits
 Built by the OHMS team for the Google Gemini DeepMind Hackathon at UCLA.
+
+### Open Source Acknowledgements
+- **Strudel** (https://strudel.cc/) — Web-based algorithmic pattern live coding environment.
+  Licensed under GNU AGPL v3.0. © the Strudel contributors.
+- **TidalCycles** (https://tidalcycles.org/) — Pattern language that inspired Strudel.
+  Licensed under GPL.
