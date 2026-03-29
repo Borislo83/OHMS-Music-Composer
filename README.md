@@ -1,6 +1,6 @@
 # OHMS Music Composer
 
-Runner-up project at the Google Gemini DeepMind Hackathon (UCLA). This is a Next.js app that combines a reactive WebGL landing experience with AI-assisted music generation and a session workflow backed by Supabase.
+Runner-up project at the Google Gemini DeepMind Hackathon (UCLA). This is a Next.js app that combines a reactive WebGL landing experience with AI-assisted music generation and a session workflow backed by Supabase. We have decided to make this project available open source with a MIT license.
 
 ## Highlights
 - Audio-reactive landing experience (WebGL shaders)
